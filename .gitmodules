@@ -1,0 +1,12 @@
+[submodule "MDDPlatform.Messages.Extensions"]
+	path = MDDPlatform.Messages.Extensions
+	url = https://github.com/adelvahdati/MDDPlatform.Messages.Extensions.git
+[submodule "MDDPlatform.Messages.Broker"]
+	path = MDDPlatform.Messages.Broker
+	url = https://github.com/adelvahdati/MDDPlatform.Messages.Broker.git
+[submodule "MDDPlatform.Messages.Dispatcher"]
+	path = MDDPlatform.Messages.Dispatcher
+	url = https://github.com/adelvahdati/MDDPlatform.Messages.Dispatcher.git
+[submodule "MDDPlatform.Messages.Core"]
+	path = MDDPlatform.Messages.Core
+	url = https://github.com/adelvahdati/MDDPlatform.Messages.Core.git
